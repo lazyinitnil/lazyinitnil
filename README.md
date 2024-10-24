@@ -32,9 +32,13 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-
+ 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowFirewook&theme=radical"/> 
+<div>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShadowFirewook&theme=android-dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfirewook&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfirewook&layout=pie&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![ShadowFirewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowFirewook&show_icons=true&theme=blue-green)
+ 
