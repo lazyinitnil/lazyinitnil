@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/ca/b2/46/cab2463eccff08174ce7fe410b71da26.gif" width="300"/>
   <div id="bages">
-    <img src="https://komarev.com/ghpvc/?username=ShadowFirewook&style=flat-square&color=blueviolet" alt=""/></div>
+    <img src="https://komarev.com/ghpvc/?username=lazyinitnil&style=flat-square&color=blueviolet" alt=""/></div>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
@@ -33,11 +33,11 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowFirewook&theme=radical"/> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazyinitnil&theme=radical"/> 
 <div>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowfirewook)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfirewook&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazyinitnil)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyinitnil&layout=donut&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
