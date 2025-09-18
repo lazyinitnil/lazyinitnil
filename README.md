@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://pin.it/6g77ff3FB"/>
+  <img src="https://pin.it/6g77ff3FB" width="300"/>
   <div id="bages">
     <img src="https://komarev.com/ghpvc/?username=lazyinitnil&style=flat-square&color=blueviolet" alt=""/></div>
   <h1>
